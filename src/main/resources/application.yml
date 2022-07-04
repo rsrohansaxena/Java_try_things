@@ -3,4 +3,3 @@ spring:
     mongodb:
       host: app_db
       port: 27017
-      database: java-to-dev-api
